@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Disha based in NYC🗽
+- 👋 Hi, I’m Disha 
+- 📍~ @ NYC🗽
 - 🌱 I’m currently pursuing my 🤓 Masters in Computer Engineering from New York University💜
 - 👀 I can make machines predict the future by connecting dots from the past👾
 
