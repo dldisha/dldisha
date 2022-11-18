@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Disha 
-- 📍~ @ NYC🗽
+- 📍Currently in NYC🗽
 - 🌱 I’m currently pursuing my 🤓 Masters in Computer Engineering from New York University💜
 - 👀 I can make machines predict the future by connecting dots from the past👾
 
