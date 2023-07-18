@@ -21,11 +21,11 @@ Apart from work,
 🔍 Self promotion portfolio: https://dldisha.github.io/
 <br>
 <br>
-![Disha Lamba's github stats](https://github-readme-stats.vercel.app/api?username=dldisha&show_icons=true&theme=onedark)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dldisha)](https://github.com/dldisha/github-readme-stats)
-<br>
+
+
+<a href="https://github.com/dldisha/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dldisha&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 <!---
