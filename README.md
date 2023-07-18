@@ -15,7 +15,7 @@ Apart from work,
 😊 Now that you know a little about me,
 <br>
 <br>
-📫 Reach me at dl4747@nyu.edu for any opportunity, about data, your travel adventures, or anything interesting. I like to learn from everyone.  
+📫 Reach me at dl4747@nyu.edu for any opportunity, to chat about data, any of your travel adventures, or maybe anything interesting. I like to learn from everyone.  
 <br>
 <br>
 🔍 Self promotion portfolio: https://dldisha.github.io/
@@ -24,8 +24,9 @@ Apart from work,
 ![Disha Lamba's github stats](https://github-readme-stats.vercel.app/api?username=dldisha&show_icons=true&theme=onedark)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dldisha&layout=compact&hide=C++,C&theme=onedark)](https://github.com/dldisha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dldisha)](https://github.com/dldisha/github-readme-stats)
 <br>
+
 
 <!---
 dldisha/dldisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
