@@ -8,9 +8,6 @@ Apart from work,
 - ⭐ Currently, I'm watching the Manifest TV series.
 - 🌍 And planning my Iceland trip for next year.
 
-💃 My Latest Adventure, 
-- 🛩️ Skydiving in Dubai (Jan 2023) - a breathtaking journey from 13,000 feet, hurtling through the air at an astonishing speed of 120 miles per hour🤩. 
-
 <br>
 😊 Now that you know a little about me,
 <br>
@@ -18,7 +15,7 @@ Apart from work,
 📫 Reach me at dl4747@nyu.edu for any opportunity, to chat about data, any of your travel adventures, or maybe anything interesting. I like to learn from everyone.  
 <br>
 <br>
-🔍 Self promotion portfolio: https://dldisha.github.io/
+🔍 Self-promotion portfolio: https://dldisha.github.io/
 <br>
 <br>
 
