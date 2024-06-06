@@ -1,19 +1,8 @@
-About me,
-- 👋 Hi, I’m Disha. I can make machines predict the future by connecting dots from the past 👀👾
-- 📍 I'm currently in NYC🗽(loving it).
-- 🌱 And have recently graduated 🤓 with a Master in Computer Engineering from New York University💜
+<h2 align="center">Hi there 👋, I am Disha</h2>
 
-Apart from work, 
-- 🧗🏽 I recently hiked over the Appalachian Trail (Stairway to Heaven) - in June 2023.
-- ⭐ Currently, I'm watching the Manifest TV series.
-- 🌍 And planning my Iceland trip for next year.
 
-<br>
-😊 Now that you know a little about me,
-<br>
-<br>
-📫 Reach me at dl4747@nyu.edu for any opportunity, to chat about data, any of your travel adventures, or maybe anything interesting. I like to learn from everyone.  
-<br>
+
+
 
 
 
