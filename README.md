@@ -4,6 +4,18 @@
   <img src="https://github.com/dldisha/dldisha/blob/main/dino-game.gif" width="500">
 <br>
 
+```typescript
+const me = {
+  username:  "dldisha",
+  website:   "https://sudodisha.github.io/",
+  github:    "https://github.com/dldisha",
+  linkedin:  "https://linkedin.com/in/dldisha",
+  email:     "dldisha929@gmail.com",
+  hobbies:    "Travel, Painting, Cafe hunting, Movie buff"
+}
+```
+<br>
+<br> 
 <p align="center">
 <a href="https://github.com/dldisha/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dldisha&layout=compact&langs_count=8&card_width=320" />
