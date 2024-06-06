@@ -4,7 +4,7 @@ About me,
 - 🌱 And have recently graduated 🤓 with a Master in Computer Engineering from New York University💜
 
 Apart from work, 
-- 🧗🏽 I recently hiked over the Appalachian Trail (Stairway to Heaven) - June 2023.
+- 🧗🏽 I recently hiked over the Appalachian Trail (Stairway to Heaven) - in June 2023.
 - ⭐ Currently, I'm watching the Manifest TV series.
 - 🌍 And planning my Iceland trip for next year.
 
@@ -14,10 +14,7 @@ Apart from work,
 <br>
 📫 Reach me at dl4747@nyu.edu for any opportunity, to chat about data, any of your travel adventures, or maybe anything interesting. I like to learn from everyone.  
 <br>
-<br>
-🔍 Self-promotion portfolio: https://dldisha.github.io/
-<br>
-<br>
+
 
 
 <a href="https://github.com/dldisha/convoychat">
